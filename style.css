@@ -1,0 +1,26 @@
+/* body {
+  min-height: 2000px;
+} */
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #fda7a7;
+}
+
+#projects {
+  padding-top: 6rem;
+  background-color: #fda7a7;
+}
+
+#about {
+  padding-top: 6rem;
+}
+
+#contact {
+  padding-top: 6rem;
+}
+
+#footer {
+  padding-top: 6rem;
+  background-color: #fda7a7;
+}
